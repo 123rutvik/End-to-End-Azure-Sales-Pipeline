@@ -183,7 +183,6 @@ The Gold materialized view enables:
 
 ## Author
 
-Adarsh Chaudhary  
+Rutvik Lachuriye
 Data Engineer | Azure | Databricks | Lakehouse | SQL  
 
-GitHub: https://github.com/addy-10
